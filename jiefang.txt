@@ -46,6 +46,9 @@
 ! 向日葵远控
 @@||tk.oray.com^$important
 
+！云视听极光
+@@||new-otheve.play.aiseet.atianqi.com^$important
+
 ! 其他需要解封的链接
 @@||177h.wodenongtian.com^$important
 @@||177l.wodenongtian.com^$important
