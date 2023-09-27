@@ -219,6 +219,7 @@
 ||p3.l.qq.com
 ||t.l.qq.com
 ||vd.l.qq.com
+||vi.l.qq.com
 ||w.l.qq.com
 ||news.l.qq.com
 ||mcgi.v.qq.com
