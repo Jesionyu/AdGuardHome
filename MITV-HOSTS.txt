@@ -25,7 +25,7 @@
 @@||o2o.api.xiaomi.com
 @@||o2o.api.xiaomi.com.lan
 @@||mi.com
-
+##                      开放地址                      ##
 @@||appstore.cdn.pandora.xiaomi.com
 @@||appstore.pandora.xiaomi.com
 @@||de.pandora.xiaomi.com
