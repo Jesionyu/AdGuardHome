@@ -25,7 +25,7 @@
 @@||o2o.api.xiaomi.com
 @@||o2o.api.xiaomi.com.lan
 @@||mi.com
-##                      开放地址                      ##
+
 @@||appstore.cdn.pandora.xiaomi.com
 @@||appstore.pandora.xiaomi.com
 @@||de.pandora.xiaomi.com
@@ -46,6 +46,18 @@
 @@||tvmgr.pandora.xiaomi.com
 @@||upgrade.mishop.pandora.xiaomi.com
 @@||xmupdate.cdn.pandora.xiaomi.com
+##                      苹果商店                      ##
+@@||bag.itunes.apple.com^$important
+@@||gateway.icloud.com^$important
+@@||gateway.icloud.com.cn^$important
+@@||ocsp2.apple.com^$important
+@@||gateway.fe.apple-dns.cn^$important
+@@||apps.mzstatic.com^$important
+@@||se2.itunes.apple.com^$important
+@@||search.itunes.apple.com^$important
+@@||amp-api-edge.apps.apple.com^$important
+@@||p216-fmfmobile.icloud.com.cn^$important
+@@||ioshost.qtlcdn.com^$important
 
 ##                                                      实验
 ||api.miwifi.com^$important
