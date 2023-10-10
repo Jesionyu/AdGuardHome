@@ -16,8 +16,6 @@
 ##                      测试地址                      ##
 @@||www.so.com
 @@||www.tudou.com
-@@||tudou.com
-@@||so.com
 ##                      米家设备                      ##
 @@||api.io.mi.com
 @@||device.io.mi.com
