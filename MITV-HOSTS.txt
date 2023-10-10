@@ -832,3 +832,9 @@
 ||youku-child.youku.com.w.alikunlun.com^$important
 ||youku-child.youku.com^$important
 ||youku-dtv.m.cn.miaozhen.com^$important
+||dr-danmu.youku.com.w.alikunlun.com^$important
+||dr-danmu.youku.com^$important
+||e10499.dsce9.akamaiedge.net^$important
+||globalsign.com.w.kunlunar.com^$important
+||lcdn-locator-usms11.apple.com.akadns.net^$important
+||lcdn-locator.apple.com^$important
