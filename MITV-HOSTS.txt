@@ -43,6 +43,20 @@
 @@||tvmgr.pandora.xiaomi.com
 @@||upgrade.mishop.pandora.xiaomi.com
 @@||xmupdate.cdn.pandora.xiaomi.com
+@@||pss.alicdn.com
+@@||gw.alicdn.com
+@@||gw.alicdn.com.danuoyi.tbcache.com
+@@||pss.alicdn.com.gds.alibabadns.com
+@@||ykpic.alicdn.com
+@@||hudong.alicdn.com
+@@||httpdns.alicdn.com
+@@||hudong.alicdn.com.danuoyi.tbcache.com
+@@||dorangesource.alicdn.com
+@@||dorangesource.alicdn.com.danuoyi.tbcache.com
+@@||g.alicdn.com
+@@||ykimg.alicdn.com
+@@||ykimg.alicdn.com.danuoyi.tbcache.com
+@@||wvcfg.alicdn.com.danuoyi.tbcache.com
 ##                      苹果商店                      ##
 @@||3-courier.push.apple.com
 @@||amp-api.apps.apple.com
@@ -425,7 +439,6 @@
 ||player.log.hunantv.com^$important
 ||pool.ntp.org^$important
 ||proxy-mob-cld.alicdn.com^$important
-||pss.alicdn.com^$important
 ||putv.qpic.cn^$important
 ||puui.qpic.cn^$important
 ||px.ucweb.com^$important
@@ -539,7 +552,6 @@
 ||ybvip.com^$important
 ||yjzb.app^$important
 ||yjzb.tv^$important
-||ykpic.alicdn.com^$important
 ||yl.vip^$important
 ||ynet.da.mgtv.com^$important
 ||ys.da.mgtv.com^$important
@@ -547,8 +559,6 @@
 ||zen.spamhaus.org^$important
 ||zx.da.mgtv.com^$important
 ##iPad新抓##
-||hudong.alicdn.com^$important
-||hudong.alicdn.com.danuoyi.tbcache.com^$important
 ||storedatasync.ad-survey.com^$important
 ||pyk.in-neo.cn^$important
 ||ynuf.aliapp.org^$important
@@ -579,8 +589,6 @@
 ||logservice1.dbankcloud.cn^$important
 ||logservice.dbankcloud.cn^$important
 ||sdkapiv2.bizport.cn^$important
-||ykimg.alicdn.com.danuoyi.tbcache.com^$important
-||wvcfg.alicdn.com.danuoyi.tbcache.com^$important
 ||finderdsp.video.qq.com^$important
 ||finderv1.video.qq.com^$important
 ||k128-mzstatic.gslb.ksyuncdn.com^$important
@@ -608,8 +616,6 @@
 ||aloc-control-plus.amap.com^$important
 ||api.sm.cn^$important
 ||default.cn.zb.v4.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^$important
-||gw.alicdn.com.danuoyi.tbcache.com^$important
-||dorangesource.alicdn.com.danuoyi.tbcache.com^$important
 ||image.laifeng.com^$important
 ||cn-vmc-images.alicdn.com^$important
 ||conn-service-cn-03.allawntech.com^$important
@@ -703,7 +709,6 @@
 ||pull-flv-f1-hs.pstatp.com^$important
 ||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^$important
 ||obus-dc2-cn.heytapmobi.com^$important
-||httpdns.alicdn.com^$important
 ||msfwifiv6.3g.qq.com^$important
 ||www.bytedance.com^$important
 ||conn-service-cn-04.allawntech.com^$important
@@ -714,7 +719,6 @@
 ||api.amemv.com^$important
 ||apac-china-courier-4.push-apple.com.akadns.net^$important
 ||6-courier.push.apple.com^$important
-||pss.alicdn.com.gds.alibabadns.com^$important
 ||tfs.alipayobjects.com^$important
 ||tfs.alipayobjects.com.danuoyi.tbcache.com^$important
 ||3fnh.3280.com^$important
@@ -723,7 +727,6 @@
 ||mlminorshort.weixin.qq.com^$important
 ||mlreport.weixin.qq.com^$important
 ||df.tanx.com^$important
-||ykimg.alicdn.com^$important
 ||rusfs.coloros.com^$important
 ||rus-service-cn.allawntech.com^$important
 ||h.trace.qq.com^$important
