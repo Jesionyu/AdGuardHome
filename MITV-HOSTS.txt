@@ -107,6 +107,27 @@
 ||apps.corel.com^$important
 ||origin-mc.corel.com^$important
 ##                      爱优腾屏蔽地址                      ##
+||011.com^$important
+||3044.com^$important
+||3280.com^$important
+||720lu.com^$important
+||9966.com^$important
+||cl.app^$important
+||cxzb.org.cn^$important
+||developers.google.cn^$important
+||e5.sk^$important
+||glfgb.com^$important
+||luxingwang.com.cn^$important
+||netease.starrydyn.com^$important
+||ntp.org.cn^$important
+||nvpuse.com^$important
+||osi.office.net^$important
+||tiantianzhibo.com^$important
+||typekit.com^$important
+||xs163.net^$important
+||zeriny.top^$important
+||zhaogepu.com^$important
+
 ||154.89.63.149^$important
 ||3290.com^$important
 ||365111.com^$important
