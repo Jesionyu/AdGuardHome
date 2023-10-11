@@ -44,17 +44,25 @@
 @@||upgrade.mishop.pandora.xiaomi.com
 @@||xmupdate.cdn.pandora.xiaomi.com
 ##                      苹果商店                      ##
+@@||3-courier.push.apple.com
+@@||amp-api.apps.apple.com
+@@||amp-api-edge.apps.apple.com
 @@||bag.itunes.apple.com
+@@||gateway.fe.apple-dns.cn
 @@||gateway.icloud.com
 @@||gateway.icloud.com.cn
+@@||grs.dbankcloud.com
+@@||init.push.apple.com
+@@||ioshost.qtlcdn.com
+@@||ocsp.digicert.com
 @@||ocsp2.apple.com
-@@||gateway.fe.apple-dns.cn
-@@||apps.mzstatic.com
+@@||p216-fmfmobile.icloud.com.cn
+@@||p216-quota.icloud.com.cn
+@@||play.itunes.apple.com
 @@||se2.itunes.apple.com
 @@||search.itunes.apple.com
-@@||amp-api-edge.apps.apple.com
-@@||p216-fmfmobile.icloud.com.cn
-@@||ioshost.qtlcdn.com
+@@||weather-data.apple.com
+@@||xp.apple.com
 ##                   实验
 ||api.miwifi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
