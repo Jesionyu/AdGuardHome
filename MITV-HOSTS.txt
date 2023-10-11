@@ -55,7 +55,7 @@
 @@||amp-api-edge.apps.apple.com
 @@||p216-fmfmobile.icloud.com.cn
 @@||ioshost.qtlcdn.com
-##                                                      实验
+##                   实验
 ||api.miwifi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
 ||auth.api.gitv.tv
@@ -86,7 +86,7 @@
 ||tv.weixin.pandora.xiaomi.com^$important
 ||upgrade.ptmi.gitv.tv^$important
 ||videodaily.ptmi.gitv.tv
-##                CorelDraw               反盗版验证                 ##
+##                CorelDraw反盗版验证                 ##
 ||54.209.36.221^$important
 ||compute-1.amazonaws.com^$important
 ||www.corel.com^$important
