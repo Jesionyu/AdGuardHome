@@ -127,6 +127,11 @@
 ||xs163.net^$important
 ||zeriny.top^$important
 ||zhaogepu.com^$important
+||zfto.cl.app^$important
+||umdc.aliapp.org^$important
+||vip-bgp-umdc.alibabachengdun.com^$important
+||center.amdc.m.taobao.com.gds.alibabadns.com^$important
+||amdc.m.taobao.com^$important
 
 ||154.89.63.149^$important
 ||3290.com^$important
