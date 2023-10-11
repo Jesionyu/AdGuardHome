@@ -115,6 +115,7 @@
 ||apps.corel.com^$important
 ||origin-mc.corel.com^$important
 ##                      爱优腾屏蔽地址                      ##
+||https://ynuf.aliapp.org/savewb.json?^$important
 ||011.com^$important
 ||3044.com^$important
 ||3280.com^$important
