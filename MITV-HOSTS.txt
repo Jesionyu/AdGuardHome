@@ -682,7 +682,6 @@
 ||d3rpajgr3c5p5n.cloudfront.net^$important
 ||cdn.jsdelivr.net^$important
 ||ptqy.gitv.tv^$important
-||cloudfront.net^$important
 ||lfpkg.ykimg.com.danuoyi.tbcache.com^$important
 ||ykimg.com^$important
 ||guid.tpns.tencent.com^$important
