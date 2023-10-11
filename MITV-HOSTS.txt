@@ -1,3 +1,4 @@
+
 ##                      语音控制                      ##
 @@||tracker.ai.xiaomi.com
 @@||cc.sys.tv.mi.com
@@ -44,18 +45,17 @@
 @@||upgrade.mishop.pandora.xiaomi.com
 @@||xmupdate.cdn.pandora.xiaomi.com
 ##                      苹果商店                      ##
-@@||bag.itunes.apple.com^$important
-@@||gateway.icloud.com^$important
-@@||gateway.icloud.com.cn^$important
-@@||ocsp2.apple.com^$important
-@@||gateway.fe.apple-dns.cn^$important
-@@||apps.mzstatic.com^$important
-@@||se2.itunes.apple.com^$important
-@@||search.itunes.apple.com^$important
-@@||amp-api-edge.apps.apple.com^$important
-@@||p216-fmfmobile.icloud.com.cn^$important
-@@||ioshost.qtlcdn.com^$important
-
+@@||bag.itunes.apple.com
+@@||gateway.icloud.com
+@@||gateway.icloud.com.cn
+@@||ocsp2.apple.com
+@@||gateway.fe.apple-dns.cn
+@@||apps.mzstatic.com
+@@||se2.itunes.apple.com
+@@||search.itunes.apple.com
+@@||amp-api-edge.apps.apple.com
+@@||p216-fmfmobile.icloud.com.cn
+@@||ioshost.qtlcdn.com
 ##                                                      实验
 ||api.miwifi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
@@ -847,3 +847,24 @@
 ||globalsign.com.w.kunlunar.com^$important
 ||lcdn-locator-usms11.apple.com.akadns.net^$important
 ||lcdn-locator.apple.com^$important
+||126.62.57.123.in-addr.arpa^$important
+||31.122.66.18.in-addr.arpa^$important
+||2.122.66.18.in-addr.arpa^$important
+||102.122.66.18.in-addr.arpa^$important
+||74.122.66.18.in-addr.arpa^$important
+||apd-pcdnwxnat.teg.tencent-cloud.net^$important
+||apd-pcdnwxstat.teg.tencent-cloud.net^$important
+||xbroker-z1-i4.ngxcld.com^$important
+||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+||xbroker-z1-i1.ngxcld.com^$important
+||ttxyajs.data.kuiniuca.com^$important
+||conf-darwin.xycdn.com^$important
+||apd-pcdnvodstat.teg.tencent-cloud.net^$important
+||apd-vodp2pnat.teg.tencent-cloud.net^$important
+||seeds-open.xycdn.com^$important
+||ef-dongfeng.tanx.com^$important
+||apd-vodp2plogin.teg.tencent-cloud.net^$important
+||sd-gl.xycdn.com^$important
+||mdp-appconf-cn.heytapdownload.com^$important
+||stats.g.doubleclick.net^$important
+||tmfsdk4.m.qq.com^$important
