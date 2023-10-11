@@ -674,7 +674,6 @@
 ||obus-dc20058-cn.heytapmobi.com^$important
 ||flux.hcdn.ptqy.gitv.tv^$important
 ||ca.iadsdk.apple.com^$important
-||www.mi.com^$important
 ||p216-quota.icloud.com.cn^$important
 ||quota.fe.apple-dns.cn^$important
 ||assets.sitescdn.net^$important
