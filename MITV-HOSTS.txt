@@ -66,7 +66,7 @@
 ##                   实验
 ||api.miwifi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
-||auth.api.gitv.tv
+||auth.api.gitv.tv^$important
 ||b.netcheck.gallery.pandora.xiaomi.com^$important
 ||broker.mina.mi.com^$important
 ||broker.miwifi.com^$important
@@ -74,10 +74,10 @@
 ||bss.pandora.xiaomi.com^$important
 ||bss.tv.mi.com^$important
 ||cdn.fds.api.xiaomi.com.w.alikunlun.com
-||data.sec.miui.com
+||data.sec.miui.com^$important
 ||dvb.pandora.xiaomi.com^$important
 ||g.cdn.pandora.xiaomi.com^$important
-||gallery.cdn.pandora.xiaomi.com
+||gallery.cdn.pandora.xiaomi.com^$important
 ||gallery.pandora.xiaomi.com^$important
 ||gimg.cdn.pandora.xiaomi.com^$important
 ||gstat.ptmi.gitv.tv^$important
@@ -85,15 +85,15 @@
 ||m.video.xiaomi.com^$important
 ||media.ptmi.gitv.tv^$important
 ||mitv.tracking.miui.com^$important
-||r.browser.miui.com
+||r.browser.miui.com^$important
 ||register.xmpush.xiaomi.com^$important
 ||stat.pandora.xiaomi.com^$important
 ||tat.pandora.xiaomi.com^$important
-||tracking.eu.miui.com
+||tracking.eu.miui.com^$important
 ||tracking.miui.com^$important
 ||tv.weixin.pandora.xiaomi.com^$important
 ||upgrade.ptmi.gitv.tv^$important
-||videodaily.ptmi.gitv.tv
+||videodaily.ptmi.gitv.tv^$important
 ##                CorelDraw反盗版验证                 ##
 ||54.209.36.221^$important
 ||compute-1.amazonaws.com^$important
