@@ -1,13 +1,4 @@
 https://adguard.com/adguard-home.html
-<p>
-	<span style="font-size:24px;color:#E53333;">个人个性化拦截</span>
-</p>
-
-<p>
-	<span style="font-size:24px;color:#E53333;">净化各种连接</span>
-</p>
-	<span style="font-size:24px;color:#E53333;">广告,隐私收集等</span>
-</p>
 ! 
 ! 共同努力添加最新最全的资源
 ! 
@@ -15,10 +6,32 @@ https://adguard.com/adguard-home.html
 
 
 =======================建议默认使用=============================
+AdGuard DNS filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 
+AdAway Default Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
 
+AdGuard Home ADGH
+https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt
 
+AdGuard Home Regex
+https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/regex.txt
 
+1Hosts (Lite)
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
+
+OISD Blocklist Big
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+
+CHN: anti-AD
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+
+CHN: AdRules DNS List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+
+AdGuard Home ADGK移动端
+https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
 
 
