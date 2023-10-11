@@ -6,6 +6,7 @@ https://adguard.com/adguard-home.html
 
 
 =======================建议默认使用=============================
+
 AdGuard DNS filter
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 
@@ -36,10 +37,6 @@ https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
 
 =======================其他过滤规则=============================
-
-
-
-
 
 百度搜索结果极限净化
 https://raw.iqiq.io/banbendalao/ADgk/master/kill-baidu-ad.txt
