@@ -8,8 +8,8 @@
 #
 # Last update: 2023-10-12
 #
-# Number of blocked domains:  937
-#
+# Number of blocked domains:  1409
+#=====================================
 #============语音控制============#
 @@||tracker.ai.xiaomi.com
 @@||cc.sys.tv.mi.com
@@ -90,8 +90,8 @@
 @@||weather-data.apple.com
 @@||xp.apple.com
 #==============待查==============#
-@@||play.aiseet.atianqi.com
-@@||tv.aiseet.atianqi.com
+||play.aiseet.atianqi.com
+||tv.aiseet.atianqi.com
 #==============实验==============#
 ||adbehavior.ximalaya.com^$important
 ||adse.wsa.ximalaya.com^$important
