@@ -1,3 +1,34 @@
+#=====================================
+# Title: MITV HOSTS
+# Power By Jesion
+# Project home page: https://github.com/Jesionyu/AdGuardHome/
+# Last update: 2023-10-12
+# 测试库精简中
+# Number of blocked domains:  1389
+#=====================================
+#============语音控制============#
+@@||tracker.ai.xiaomi.com
+@@||cc.sys.tv.mi.com
+@@||media.v2.t001.ottcn.com
+@@||ottcn.com
+@@||metok.sys.miui.com
+#============CDN服务============#
+@@||pwupdate.cdn.pandora.xiaomi.com
+#============API================#
+@@||api.smoot.apple.cn
+@@||api.airpush.com
+@@||restapi.amap.com
+@@||staging.ai.api.xiaomi.com
+#============测试地址============#
+@@||www.so.com
+@@||www.tudou.com
+#============米家设备============#
+@@||api.io.mi.com
+@@||device.io.mi.com
+@@||app.chat.xiaomi.net
+@@||o2o.api.xiaomi.com
+@@||o2o.api.xiaomi.com.lan
+#=====================================
 ||de.pandora.xiaomi.com^
 ||mishop.pandora.xiaomi.com^
 ||upgrade.xiabop.pandora.xiaomi.com^
@@ -64,11 +95,9 @@
 ||test.ad.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
 ||data.mistat.xiaomi.com^
-
 ||package.cdn.pandora.xiaomi.com^
 ||package.box.xiaomi.com^
 ||ota.cdn.pandora.xiaomi.com^
-
 ||stat.pandora.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
 ||logonext.tv.kuyun.com^
@@ -155,3 +184,238 @@
 ||alog.umeng.com^
 ||hotupgrade.hpplay.cn^
 ||pin.hpplay.cn^
+#============优酷HD============#
+pss.alicdn.com
+gw.alicdn.com
+gw.alicdn.com.danuoyi.tbcache.com
+pss.alicdn.com.gds.alibabadns.com
+ykpic.alicdn.com
+hudong.alicdn.com
+httpdns.alicdn.com
+hudong.alicdn.com.danuoyi.tbcache.com
+dorangesource.alicdn.com
+dorangesource.alicdn.com.danuoyi.tbcache.com
+g.alicdn.com
+ykimg.com
+m.ykimg.com
+ykimg.alicdn.com
+ykimg.alicdn.com.danuoyi.tbcache.com
+wvcfg.alicdn.com.danuoyi.tbcache.com
+#============优酷TV============#
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.tv.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 ad.api.pad.youku.com
+127.0.0.1 ad.api.smarttv.youku.com
+127.0.0.1 ad.api.tv.sohu.com
+127.0.0.1 ad.api.tv.sina.com.cn
+127.0.0.1 ad.api.tv.qiyi.com
+127.0.0.1 ad.api.tv.le.com
+127.0.0.1 ad.api.tv.pptv.com
+127.0.0.1 ad.api.tv.mgtv.com
+127.0.0.1 ad.api.tv.ifeng.com
+127.0.0.1 ad.api.tv.letv.com
+127.0.0.1 ad.api.tv.kankan.com
+127.0.0.1 ad.api.tv.56.com
+127.0.0.1 ad.api.tv.baofeng.com
+127.0.0.1 ad.api.tv.youku.com
+127.0.0.1 ad.api.tv.youku.com
+127.0.0.1 ad.api.tv.youku.com
+127.0.0.1 ad.api.tv.youku.com
+#============优酷web============#
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.tv.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 ad.api.pad.youku.com
+127.0.0.1 ad.api.smarttv.youku.com
+#==========云试听极光===========#
+127.0.0.1 api.yuntingservice.com
+127.0.0.1 ads.yuntingservice.com
+127.0.0.1 ad.yuntingservice.com
+#==========腾讯视频=============#
+127.0.0.1 v.qq.com
+127.0.0.1 vod.cn.tencent.com
+127.0.0.1 v.qqvideo.tc.qq.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 tvfe-bbs.qq.com
+127.0.0.1 tvfe.com
+127.0.0.1 tvfe.qq.com
+127.0.0.1 v.qqcdn.com
+127.0.0.1 v.qq.com.edgesuite.net
+127.0.0.1 vqq.com
+127.0.0.1 vqqcdn.com
+127.0.0.1 vqqmail.qq.com
+127.0.0.1 vqqstyle.qq.com
+#==========腾讯视频web=============#
+127.0.0.1 v.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 live.qq.com
+127.0.0.1 tvax1.sinaimg.cn
+127.0.0.1 tvax2.sinaimg.cn
+127.0.0.1 tvax3.sinaimg.cn
+127.0.0.1 tvax4.sinaimg.cn
+127.0.0.1 tvax5.sinaimg.cn
+127.0.0.1 tvax6.sinaimg.cn
+127.0.0.1 tvax7.sinaimg.cn
+127.0.0.1 tvax8.sinaimg.cn
+127.0.0.1 tvax9.sinaimg.cn
+127.0.0.1 tvax10.sinaimg.cn
+#==========爱奇艺=============#
+127.0.0.1 ad.iqiyi.com
+127.0.0.1 ad-vod.iqiyi.com
+127.0.0.1 cm.passport.iqiyi.com
+127.0.0.1 cm.play.api.iqiyi.com
+127.0.0.1 cm.play.iqiyi.com
+127.0.0.1 cm.play.api.iqiyi.com
+127.0.0.1 cm.play.api.iqiyi.com
+127.0.0.1 msg.qy.net
+#==========爱奇艺HD=============#
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 ad.api.youku.com
+127.0.0.1 ad.m.163.com
+127.0.0.1 ad.mediav.com
+127.0.0.1 ad.youku.com
+127.0.0.1 admaster.com.cn
+127.0.0.1 adsage.com
+127.0.0.1 adsame.com
+127.0.0.1 adsmogo.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 adsymptotic.com
+127.0.0.1 adx.tribalfusion.com
+127.0.0.1 afp.csbew.com
+127.0.0.1 afp.sina.com.cn
+127.0.0.1 aop.56.com
+127.0.0.1 aopengzuoye.com
+127.0.0.1 app.mopub.com
+#==========奇异果TV=============#
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 ad.api.youku.com
+127.0.0.1 ad.m.163.com
+127.0.0.1 ad.mediav.com
+127.0.0.1 ad.youku.com
+127.0.0.1 admaster.com.cn
+127.0.0.1 adsage.com
+127.0.0.1 adsame.com
+127.0.0.1 adsmogo.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 adsymptotic.com
+127.0.0.1 adx.tribalfusion.com
+127.0.0.1 afp.csbew.com
+127.0.0.1 afp.sina.com.cn
+127.0.0.1 aop.56.com
+127.0.0.1 aopengzuoye.com
+127.0.0.1 app.mopub.com
+#==========芒果TV=============#
+127.0.0.1 ad.mgtv.com
+127.0.0.1 admaster.com.cn
+127.0.0.1 adsage.com
+127.0.0.1 adsame.com
+127.0.0.1 adsmogo.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 adsymptotic.com
+127.0.0.1 adx.tribalfusion.com
+127.0.0.1 afp.csbew.com
+127.0.0.1 afp.sina.com.cn
+127.0.0.1 aop.56.com
+127.0.0.1 aopengzuoye.com
+127.0.0.1 app.mopub.com
+#==========芒果TV=============#
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 ad.api.youku.com
+127.0.0.1 ad.m.163.com
+127.0.0.1 ad.mediav.com
+127.0.0.1 ad.youku.com
+127.0.0.1 admaster.com.cn
+127.0.0.1 adsage.com
+127.0.0.1 adsame.com
+127.0.0.1 adsmogo.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 adsymptotic.com
+127.0.0.1 adx.tribalfusion.com
+127.0.0.1 afp.csbew.com
+127.0.0.1 afp.sina.com.cn
+127.0.0.1 aop.56.com
+127.0.0.1 aopengzuoye.com
+127.0.0.1 app.mopub.com
+#==========百度web=============#
+127.0.0.1 cpro.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 union.baidu.com
+127.0.0.1 ecmb.bdimg.com
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 cpro.baidustatic.cn
+127.0.0.1 cpro.baidustatic.net
+127.0.0.1 cpro.baidustatic.org
+127.0.0.1 cpro.baidustatic.co
+127.0.0.1 cpro.baidustatic.mobi
+127.0.0.1 cpro.baidustatic.asia
+127.0.0.1 cpro.baidustatic.eu
+127.0.0.1 cpro.baidustatic.us
+127.0.0.1 cpro.baidustatic.info
+127.0.0.1 cpro.baidustatic.biz
+127.0.0.1 cpro.baidustatic.cc
+127.0.0.1 cpro.baidustatic.tv
+127.0.0.1 cpro.baidustatic.co.uk
+127.0.0.1 cpro.baidustatic.de
+127.0.0.1 cpro.baidustatic.fr
+127.0.0.1 cpro.baidustatic.it
+127.0.0.1 cpro.baidustatic.es
+127.0.0.1 cpro.baidustatic.nl
+127.0.0.1 cpro.baidustatic.ru
+127.0.0.1 cpro.baidustatic.jp
+127.0.0.1 cpro.baidustatic.kr
+127.0.0.1 cpro.baidustatic.com.au
+127.0.0.1 cpro.baidustatic.ca
+127.0.0.1 cpro.baidustatic.com.br
+127.0.0.1 cpro.baidustatic.com.mx
+127.0.0.1 cpro.baidustatic.in
+127.0.0.1 cpro.baidustatic.com.ar
+127.0.0.1 cpro.baidustatic.co.za
+127.0.0.1 cpro.baidustatic.com.ng
+127.0.0.1 cpro.baidustatic.com.tr
+127.0.0.1 cpro.baidustatic.com.sa
+127.0.0.1 cpro.baidustatic.ae
+127.0.0.1 cpro.baidustatic.com.sg
+127.0.0.1 cpro.baidustatic.com.my
+127.0.0.1 cpro.baidustatic.com.id
+127.0.0.1 cpro.baidustatic.com.ph
+127.0.0.1 cpro.baidustatic.com.vn
+127.0.0.1 cpro.baidustatic.com.th
+127.0.0.1 cpro.baidustatic.com.tw
+127.0.0.1 cpro.baidustatic.com.hk
+127.0.0.1 cpro.baidustatic.com.mo
+127.0.0.1 cpro.baidustatic.com.pk
+127.0.0.1 cpro.baidustatic.com.bd
+127.0.0.1 cpro.baidustatic.com.eg
+127.0.0.1 cpro.baidustatic.com.ng
+127.0.0.1 cpro.baidustatic.com.za
+127.0.0.1 cpro.baidustatic.com.tr
+127.0.0.1 cpro.baidustatic.com.sa
+127.0.0.1 cpro.baidustatic.ae
+127.0.0.1 cpro.baidustatic.com.sg
+127.0.0.1 cpro.baidustatic.com.my
+127.0.0.1 cpro.baidustatic.com.id
+127.0.0.1 cpro.baidustatic.com.ph
+127.0.0.1 cpro.baidustatic.com.vn
+127.0.0.1 cpro.baidustatic.com.th
+127.0.0.1 cpro.baidustatic.com.tw
+127.0.0.1 cpro.baidustatic.com.hk
+127.0.0.1 cpro.baidustatic.com.mo
+127.0.0.1 cpro.baidustatic.com.pk
+127.0.0.1 cpro.baidustatic.com.bd
+127.0.0.1 cpro.baidustatic.com.eg
+#==========微博web=============#
+127.0.0.1 ad.api.weibo.com
+127.0.0.1 mapi.weibo.com
+127.0.0.1 api.weibo.cn
+127.0.0.1 p.t.sina.com.cn
+127.0.0.1 ad.sina.com.cn
+127.0.0.1 adimg.weibo.com
+127.0.0.1 adse.sina.com.cn
+127.0.0.1 sina.com.cn
+127.0.0.1 weibo.cn
+127.0.0.1 weibo.com
