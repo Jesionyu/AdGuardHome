@@ -1,28 +1,39 @@
-##                      语音控制                      ##
+#=====================================
+#
+# Title: MITV HOSTS
+#
+# Power By Jesion
+#
+# Project home page: https://github.com/Jesionyu/AdGuardHome/
+#
+# Last update: 2023-10-12
+#
+# Number of blocked domains:  937
+#
+#============语音控制============#
 @@||tracker.ai.xiaomi.com
 @@||cc.sys.tv.mi.com
 @@||media.v2.t001.ottcn.com
-@@||v2.reachmax.cn^$important
 @@||ottcn.com
 @@||metok.sys.miui.com
-##                      CDN服务                       ##
+#============CDN服务============#
 @@||gallery.cdn.pandora.xiaomi.com
 @@||pwupdate.cdn.pandora.xiaomi.com
-##                      API                           ##
+#============API============#
 @@||api.smoot.apple.cn
 @@||api.airpush.com
 @@||restapi.amap.com
 @@||staging.ai.api.xiaomi.com
-##                      测试地址                      ##
+#============测试地址============#
 @@||www.so.com
 @@||www.tudou.com
-##                      米家设备                      ##
+#============米家设备============#
 @@||api.io.mi.com
 @@||device.io.mi.com
 @@||app.chat.xiaomi.net
 @@||o2o.api.xiaomi.com
 @@||o2o.api.xiaomi.com.lan
-##                      开放地址                      ##
+#============开放地址============#
 @@||appstore.cdn.pandora.xiaomi.com
 @@||appstore.pandora.xiaomi.com
 @@||de.pandora.xiaomi.com
@@ -54,10 +65,12 @@
 @@||dorangesource.alicdn.com
 @@||dorangesource.alicdn.com.danuoyi.tbcache.com
 @@||g.alicdn.com
+@@||ykimg.com
+@@||m.ykimg.com
 @@||ykimg.alicdn.com
 @@||ykimg.alicdn.com.danuoyi.tbcache.com
 @@||wvcfg.alicdn.com.danuoyi.tbcache.com
-##                      苹果商店                      ##
+#============苹果商店============#
 @@||3-courier.push.apple.com
 @@||amp-api.apps.apple.com
 @@||amp-api-edge.apps.apple.com
@@ -77,7 +90,7 @@
 @@||search.itunes.apple.com
 @@||weather-data.apple.com
 @@||xp.apple.com
-##                   实验
+#==============实验==============#
 ||api.miwifi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
 ||auth.api.gitv.tv^$important
@@ -108,7 +121,7 @@
 ||tv.weixin.pandora.xiaomi.com^$important
 ||upgrade.ptmi.gitv.tv^$important
 ||videodaily.ptmi.gitv.tv^$important
-##                CorelDraw反盗版验证                 ##
+##=====CorelDraw反盗版验证=====##
 ||54.209.36.221^$important
 ||compute-1.amazonaws.com^$important
 ||www.corel.com^$important
@@ -128,7 +141,7 @@
 ||lmlicenses.wip4.adobe.com^$important
 ||apps.corel.com^$important
 ||origin-mc.corel.com^$important
-##                      爱优腾屏蔽地址                      ##
+#==========爱优腾屏蔽地址==========#
 ||liangcang-material.alicdn.com^$important
 ||011.com^$important
 ||3044.com^$important
@@ -316,8 +329,6 @@
 ||ftp.hpplay.com.cn^$important
 ||g.wan.mgtv.com^$important
 ||galitv.alicdn.com^$important
-||gateway.fe.apple-dns.cn^$important
-||gateway.icloud.com^$important
 ||gerrit.mitvos.com^$important
 ||gf.app^$important
 ||gslb.hpplay.cn^$important
@@ -420,7 +431,6 @@
 ||ott3.da.mgtv.com^$important
 ||ott-v0-al.data.mgtv.com^$important
 ||p2.l.qq.com^$important
-||p216-fmfmobile.icloud.com.cn^$important
 ||p3.l.qq.com^$important
 ||pay.video.qq.com^$important
 ||pc.da.mgtv.com^$important
@@ -558,15 +568,13 @@
 ||yxzb.tv^$important
 ||zen.spamhaus.org^$important
 ||zx.da.mgtv.com^$important
-##iPad新抓##
+##==========iPad新抓==========##
 ||storedatasync.ad-survey.com^$important
 ||pyk.in-neo.cn^$important
 ||ynuf.aliapp.org^$important
 ||h-adashx-internal.ut.taobao.com.gds.alibabadns.com^$important
 ||h-adashx.ut.taobao.com^$important
 ||cgicol.amap.com^$important
-||g.alicdn.com^$important
-||m.ykimg.com^$important
 ||findergdtyy.video.qq.com^$important
 ||pgw-tel-cld-sl.alicdn.com^$important
 ||magzineimg.nearme.com.cn^$important
@@ -576,7 +584,6 @@
 ||smvconf.f.360.cn^$important
 ||metrics1-drcn.dt.dbankcloud.cn^$important
 ||connect-drcn.dbankcloud.cn^$important
-||grs.dbankcloud.com^$important
 ||hivoice-drcn.emui.dbankcloud.com^$important
 ||dbankcloud.com^$important
 ||gsp-ssl.ls.apple.com^$important
@@ -655,7 +662,6 @@
 ||webcast26-normal-c-lq.amemv.com^$important
 ||api5-normal-hl.amemv.com^$important
 ||init.push-apple.com.akadns.net^$important
-||init.push.apple.com^$important
 ||asia.gikken.co^$important
 ||a1887.dscq.akamai.net^$important
 ||r3.o.lencr.org^$important
@@ -668,8 +674,6 @@
 ||appledownload.qtlcdn.com^$important
 ||smp-device-content.apple.com^$important
 ||m8yp.3280.com^$important
-||ioshost.qtlcdn.com^$important
-||ocsp2.apple.com^$important
 ||a1.ksyunv7.com^$important
 ||mask-api.fe.apple-dns.net^$important
 ||mask-api.icloud.com^$important
@@ -677,9 +681,7 @@
 ||pki-goog.l.google.com^$important
 ||ocsp.pki.goog^$important
 ||fp2e7a.wpc.phicdn.net^$important
-||ocsp.digicert.com^$important
 ||aapl-maps.qtlcdn.com^$important
-||weather-data.apple.com^$important
 ||imap.mail-aipo.apple-dns.cn^$important
 ||secgw-ipv6-acs-heyi.m.taobao.com.gds.alibabadns.com^$important
 ||mobilegw.alipaydns.com^$important
@@ -743,19 +745,17 @@
 ||obus-dc20058-cn.heytapmobi.com^$important
 ||flux.hcdn.ptqy.gitv.tv^$important
 ||ca.iadsdk.apple.com^$important
-||p216-quota.icloud.com.cn^$important
 ||quota.fe.apple-dns.cn^$important
 ||assets.sitescdn.net^$important
 ||apps.bazaarvoice.com^$important
 ||d3rpajgr3c5p5n.cloudfront.net^$important
 ||cdn.jsdelivr.net^$important
 ||ptqy.gitv.tv^$important
-||lfpkg.ykimg.com.danuoyi.tbcache.com^$important
-||ykimg.com^$important
+||lfpkg..com.danuoyi.tbcache.com^$important
 ||guid.tpns.tencent.com^$important
 ||dbankcdn.cn^$important
 ||dbankcdn.com^$important
-##aisee广告(100%确定)##
+#==========aisee广告(100%确定)==========#
 ||creport-start.play.aiseet.atianqi.com^$important
 ||new-otheve.play.aiseet.atianqi.com^$important
 ||appcfg-v.play.aiseet.atianqi.com^$important
@@ -812,7 +812,7 @@
 ||gtmnb.yst.aisee.tv^$important
 ||aisee.tv^$important
 ||app.snm0516.aisee.tv^$important
-##优酷广告(100%确定)##
+#==========优酷广告(100%确定)==========#
 ||adashx.ut.youku.com^$important
 ||adx-open-service.youku.com^$important
 ||amdc.m.youku.com^$important
