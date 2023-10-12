@@ -829,7 +829,7 @@
 ||wbapp.mobile.sina.cn^$important
 ||wbapp.uve.weibo.com^$important
 ||wbclick.mobile.sina.cn^$important
-||wbpctips.mobile.sina.cn^$important
+||wbpctips.mobile.sina.cn^$important
 ||widget.weibo.com^$important
 ||woocall.sina.com.cn^$important
 ||zc.biz.weibo.com^$important
