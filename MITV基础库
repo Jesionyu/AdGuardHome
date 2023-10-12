@@ -419,3 +419,16 @@ wvcfg.alicdn.com.danuoyi.tbcache.com
 127.0.0.1 sina.com.cn
 127.0.0.1 weibo.cn
 127.0.0.1 weibo.com
+#==========抖音=============#
+127.0.0.1 api.amemv.com
+127.0.0.1 log.snssdk.com
+127.0.0.1 e3.vp.toutiao.com
+127.0.0.1 api3-normal-c-hl.amemv.com
+127.0.0.1 api3-normal-c-lf.amemv.com
+127.0.0.1 api3-normal-c-lq.amemv.com
+127.0.0.1 api3-normal-c-ma.amemv.com
+127.0.0.1 api3-normal-c-mb.amemv.com
+127.0.0.1 api3-normal-c-mc.amemv.com
+127.0.0.1 api3-normal-c-md.amemv.com
+
+
