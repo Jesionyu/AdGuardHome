@@ -3,8 +3,8 @@
 # Power By Jesion
 # Project home page: https://github.com/Jesionyu/AdGuardHome/
 # Last update: 2023-10-12
-# 测试库精简中
-# Number of blocked domains:  1389
+# 测试库精简中（有很多是懒得抓了chatGPT4咨询的）
+# Number of blocked domains:  272
 #=====================================
 #============语音控制============#
 @@||tracker.ai.xiaomi.com
@@ -13,7 +13,7 @@
 @@||ottcn.com
 @@||metok.sys.miui.com
 #============CDN服务============#
-@@||pwupdate.cdn.pandora.xiaomi.com
+#NAME?
 #============API================#
 @@||api.smoot.apple.cn
 @@||api.airpush.com
@@ -29,406 +29,244 @@
 @@||o2o.api.xiaomi.com
 @@||o2o.api.xiaomi.com.lan
 #=====================================
-||de.pandora.xiaomi.com^
-||mishop.pandora.xiaomi.com^
-||upgrade.xiabop.pandora.xiaomi.com^
-||data.mistat.xiaomi.com^
-||gallery.pandora.xiaomi.com^
-||b.netcheck.gallery.pandora.xiaomi.com^
-||config.kuyun.com^
-||o2o.api.xiaomi.com^
-||dvb.pandora.xiaomi.com^
-||bss.pandora.xiaomi.com^
-||jellyfish.pandora.xiaomi.com^
-||starfish.pandora.xiaomi.com^
-||alog.umeng.com^
-||api.ad.xiaomi.com^
-||adkconfig.ad.xiaomi.com^
-||gvod.aiseejapp.atianqi.com^
-||ad.mi.com^
-||ad.xiaomi.com^
-||adl.xiaomi.com^
-||adv.sec.miui.com^
-||stat.pandora.xiaomi.com^
-||new.api.ad.xiaomi.com^
-||cdn.ad.xiaomi.com^
-||e.ad.xiaomi.com^
-||test.new.api.ad.xiaomi.com^
-||api.ad.xiaomi.com^
-||t7z.cupid.ptqy.gity.tv^
-||ssp.ad.xiaomi.com^
-||ad.doubleclick.net^
-||v.admaster.com^
-||api.io.mi.com^
-||api.io.xiaomi.com^
-||logonext.tv.kuyun.com^
-||tvapi.kuyun.com^
-||tv.aiseet.atianqi.com^
-||vv.play.aiseet.atianqi.com^
-||pandora.mi.com^
-||assistant.pandora.xiaomi.com^
-||tracking.miui.com^
-||omgmta.play.aiseet.atianqi.com^
-||misc.in.duokanbox.com^
-||api.cupid.ptqy.gitv.tv^
-||f1.market.xiaomi.com^
-||f2.market.xiaomi.com^
-||f3.market.xiaomi.com^
-||f4.market.xiaomi.com^
-||f5.market.xiaomi.com^
-||f1.market.mi-img.com^
-||f2.market.mi-img.com^
-||f3.market.mi-img.com^
-||f4.market.mi-img.com^
-||f5.market.mi-img.com^
-||t1.a.market.xiaomi.com^
-||t2.a.market.xiaomi.com^
-||t3.a.market.xiaomi.com^
-||t4.a.market.xiaomi.com^
-||t5.a.market.xiaomi.com^
-||g.dtv.cn.miaozhan.com^
-||staging.ai.api.xiaomi.com^
-||79t2.admaster.com^.cn
-||secure.chn.imrworldwide.com^
-||alert.kuyun.com^
-||sdkconfig.ad.xiaomi.com^
-||test.ad.xiaomi.com^
-||upgrade.mishop.pandora.xiaomi.com^
-||data.mistat.xiaomi.com^
-||package.cdn.pandora.xiaomi.com^
-||package.box.xiaomi.com^
-||ota.cdn.pandora.xiaomi.com^
-||stat.pandora.xiaomi.com^
-||upgrade.mishop.pandora.xiaomi.com^
-||logonext.tv.kuyun.com^
-||config.kuyun.com^
-||api.io.mi.com^
-||mishop.pandora.xiaomi.com^
-||dvb.pandora.xiaomi.com^
-||api.ad.xiaomi.com^
-||de.pandora.xiaomi.com^
-||data.mistat.xiaomi.com^
-||jellyfish.pandora.xiaomi.com^
-||gallery.pandora.xiaomi.com^
-||bss.pandora.xiaomi.com^
-||gvod.aiseejapp.atianqi.com^
-||api.ad.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
-||ad.mi.com^
-||ad.xiaomi.com^
-||ad1.xiaomi.com^
-||adv.sec.miui.com^
-||test.ad.xiaomi.com^
-||new.api.ad.xiaomi.com^
-||cdn.ad.xiaomi.com^
-||e.ad.xiaomi.com^
-||test.new.api.ad.xiaomi.com^
-||ssp.ad.xiaomi.com^
-||o2o.api.xiaomi.com^
-||api.cupid.ptqy.gitv.tv^
-||stat.pandora.xiaomi.com^
-||upgrade.mishop.pandora.xiaomi.com^
-||logonext.tv.kuyun.com^
-||config.kuyun.com^
-||api.io.mi.com^
-||mishop.pandora.xiaomi.com^
-||dvb.pandora.xiaomi.com^
-||de.pandora.xiaomi.com^
-||data.mistat.xiaomi.com^
-||jellyfish.pandora.xiaomi.com^
-||gallery.pandora.xiaomi.com^
-||o2o.api.xiaomi.com^
-||bss.pandora.xiaomi.com^
-||gvod.aiseejapp.atianqi.com^
-||package.cdn.pandora.xiaomi.com^
-||package.box.xiaomi.com^
-||ota.cdn.pandora.xiaomi.com^
-||api.ad.xiaomi.com^
-||data.mistat.xiaomi.com^
-||gvod.aiseejapp.atianqi.com^
-||stat.pandora.xiaomi.com^
-||upgrade.mishop.pandora.xiaomi.com^
-||logonext.tv.kuyun.com^
-||config.kuyun.com^
-||mishop.pandora.xiaomi.com^
-||dvb.pandora.xiaomi.com^
-||api.ad.xiaomi.com^
-||de.pandora.xiaomi.com^
-||data.mistat.xiaomi.com^
-||jellyfish.pandora.xiaomi.com^
-||gallery.pandora.xiaomi.com^
-||bss.pandora.xiaomi.com^
-||hpplay.cdn.cibn.cc^
-||h5.hpplay.com.cn^
-||sdkauth.hpplay.cn^
-||imdns.hpplay.cn^
-||vipauth.hpplay.cn^
-||rp.hpplay.cn^
-||sl.hpplay.cn^
-||519332DA.rtc.youme.im^
-||hotupgrade.hpplay.cn^
-||hotupgrade.hpplay.com.cn^
-||pin.hpplay.cn^
-||tvapp.hpplay.cn^
-||hpplay.cdn.cibn.cc^
-||image.hpplay.cn^
-||gslb.hpplay.cn^
-||rp.hpplay.cn^
-||cdn.hpplay.com.cn^
-||h5.hpplay.com.cn^
-||adeng.hpplay.cn^
-||conf.hpplay.cn^
-||adcdn.hpplay.cn^
-||g.dtv.cn.miaozhen.com^
-||android.bugly.qq.com^
-||alog.umeng.com^
-||hotupgrade.hpplay.cn^
-||pin.hpplay.cn^
+||de.pandora.xiaomi.com^$important
+||mishop.pandora.xiaomi.com^$important
+||upgrade.xiabop.pandora.xiaomi.com^$important
+||data.mistat.xiaomi.com^$important
+||gallery.pandora.xiaomi.com^$important
+||b.netcheck.gallery.pandora.xiaomi.com^$important
+||config.kuyun.com^$important
+||dvb.pandora.xiaomi.com^$important
+||bss.pandora.xiaomi.com^$important
+||jellyfish.pandora.xiaomi.com^$important
+||starfish.pandora.xiaomi.com^$important
+||alog.umeng.com^$important
+||api.ad.xiaomi.com^$important
+||adkconfig.ad.xiaomi.com^$important
+||gvod.aiseejapp.atianqi.com^$important
+||ad.mi.com^$important
+||ad.xiaomi.com^$important
+||adl.xiaomi.com^$important
+||adv.sec.miui.com^$important
+||stat.pandora.xiaomi.com^$important
+||new.api.ad.xiaomi.com^$important
+||cdn.ad.xiaomi.com^$important
+||e.ad.xiaomi.com^$important
+||test.new.api.ad.xiaomi.com^$important
+||t7z.cupid.ptqy.gity.tv^$important
+||ssp.ad.xiaomi.com^$important
+||ad.doubleclick.net^$important
+||v.admaster.com^$important
+||api.io.xiaomi.com^$important
+||logonext.tv.kuyun.com^$important
+||tvapi.kuyun.com^$important
+||tv.aiseet.atianqi.com^$important
+||vv.play.aiseet.atianqi.com^$important
+||pandora.mi.com^$important
+||assistant.pandora.xiaomi.com^$important
+||tracking.miui.com^$important
+||omgmta.play.aiseet.atianqi.com^$important
+||misc.in.duokanbox.com^$important
+||api.cupid.ptqy.gitv.tv^$important
+||f1.market.xiaomi.com^$important
+||f2.market.xiaomi.com^$important
+||f3.market.xiaomi.com^$important
+||f4.market.xiaomi.com^$important
+||f5.market.xiaomi.com^$important
+||f1.market.mi-img.com^$important
+||f2.market.mi-img.com^$important
+||f3.market.mi-img.com^$important
+||f4.market.mi-img.com^$important
+||f5.market.mi-img.com^$important
+||t1.a.market.xiaomi.com^$important
+||t2.a.market.xiaomi.com^$important
+||t3.a.market.xiaomi.com^$important
+||t4.a.market.xiaomi.com^$important
+||t5.a.market.xiaomi.com^$important
+||g.dtv.cn.miaozhan.com^$important
+||79t2.admaster.com.cn^$important
+||secure.chn.imrworldwide.com^$important
+||alert.kuyun.com^$important
+||sdkconfig.ad.xiaomi.com^$important
+||test.ad.xiaomi.com^$important
+||upgrade.mishop.pandora.xiaomi.com^$important
+||package.cdn.pandora.xiaomi.com^$important
+||package.box.xiaomi.com^$important
+||ota.cdn.pandora.xiaomi.com^$important
+||ad1.xiaomi.com^$important
+||hpplay.cdn.cibn.cc^$important
+||h5.hpplay.com.cn^$important
+||sdkauth.hpplay.cn^$important
+||imdns.hpplay.cn^$important
+||vipauth.hpplay.cn^$important
+||rp.hpplay.cn^$important
+||sl.hpplay.cn^$important
+||519332DA.rtc.youme.im^$important
+||hotupgrade.hpplay.cn^$important
+||hotupgrade.hpplay.com.cn^$important
+||pin.hpplay.cn^$important
+||tvapp.hpplay.cn^$important
+||image.hpplay.cn^$important
+||gslb.hpplay.cn^$important
+||cdn.hpplay.com.cn^$important
+||adeng.hpplay.cn^$important
+||conf.hpplay.cn^$important
+||adcdn.hpplay.cn^$important
+||g.dtv.cn.miaozhen.com^$important
+||android.bugly.qq.com^$important
 #============优酷HD============#
-pss.alicdn.com
-gw.alicdn.com
-gw.alicdn.com.danuoyi.tbcache.com
-pss.alicdn.com.gds.alibabadns.com
-ykpic.alicdn.com
-hudong.alicdn.com
-httpdns.alicdn.com
-hudong.alicdn.com.danuoyi.tbcache.com
-dorangesource.alicdn.com
-dorangesource.alicdn.com.danuoyi.tbcache.com
-g.alicdn.com
-ykimg.com
-m.ykimg.com
-ykimg.alicdn.com
-ykimg.alicdn.com.danuoyi.tbcache.com
-wvcfg.alicdn.com.danuoyi.tbcache.com
+||pss.alicdn.com^$important
+||gw.alicdn.com^$important
+||gw.alicdn.com.danuoyi.tbcache.com^$important
+||pss.alicdn.com.gds.alibabadns.com^$important
+||ykpic.alicdn.com^$important
+||hudong.alicdn.com^$important
+||httpdns.alicdn.com^$important
+||hudong.alicdn.com.danuoyi.tbcache.com^$important
+||dorangesource.alicdn.com^$important
+||dorangesource.alicdn.com.danuoyi.tbcache.com^$important
+||g.alicdn.com^$important
+||ykimg.com^$important
+||m.ykimg.com^$important
+||ykimg.alicdn.com^$important
+||ykimg.alicdn.com.danuoyi.tbcache.com^$important
+||wvcfg.alicdn.com.danuoyi.tbcache.com^$important
 #============优酷TV============#
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 ad.api.tv.youku.com
-127.0.0.1 ad.api.mobile.youku.com
-127.0.0.1 ad.api.pad.youku.com
-127.0.0.1 ad.api.smarttv.youku.com
-127.0.0.1 ad.api.tv.sohu.com
-127.0.0.1 ad.api.tv.sina.com.cn
-127.0.0.1 ad.api.tv.qiyi.com
-127.0.0.1 ad.api.tv.le.com
-127.0.0.1 ad.api.tv.pptv.com
-127.0.0.1 ad.api.tv.mgtv.com
-127.0.0.1 ad.api.tv.ifeng.com
-127.0.0.1 ad.api.tv.letv.com
-127.0.0.1 ad.api.tv.kankan.com
-127.0.0.1 ad.api.tv.56.com
-127.0.0.1 ad.api.tv.baofeng.com
-127.0.0.1 ad.api.tv.youku.com
-127.0.0.1 ad.api.tv.youku.com
-127.0.0.1 ad.api.tv.youku.com
-127.0.0.1 ad.api.tv.youku.com
+||ad.api.3g.youku.com^$important
+||ad.api.mobile.youku.com^$important
+||ad.api.pad.youku.com^$important
+||ad.api.smarttv.youku.com^$important
+||ad.api.tv.sohu.com^$important
+||ad.api.tv.sina.com.cn^$important
+||ad.api.tv.qiyi.com^$important
+||ad.api.tv.le.com^$important
+||ad.api.tv.pptv.com^$important
+||ad.api.tv.mgtv.com^$important
+||ad.api.tv.ifeng.com^$important
+||ad.api.tv.letv.com^$important
+||ad.api.tv.kankan.com^$important
+||ad.api.tv.56.com^$important
+||ad.api.tv.baofeng.com^$important
+||ad.api.tv.youku.com^$important
 #============优酷web============#
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 ad.api.tv.youku.com
-127.0.0.1 ad.api.mobile.youku.com
-127.0.0.1 ad.api.pad.youku.com
-127.0.0.1 ad.api.smarttv.youku.com
 #==========云试听极光===========#
-127.0.0.1 api.yuntingservice.com
-127.0.0.1 ads.yuntingservice.com
-127.0.0.1 ad.yuntingservice.com
+||api.yuntingservice.com^$important
+||ads.yuntingservice.com^$important
+||ad.yuntingservice.com^$important
 #==========腾讯视频=============#
-127.0.0.1 v.qq.com
-127.0.0.1 vod.cn.tencent.com
-127.0.0.1 v.qqvideo.tc.qq.com
-127.0.0.1 livep.l.qq.com
-127.0.0.1 tvfe-bbs.qq.com
-127.0.0.1 tvfe.com
-127.0.0.1 tvfe.qq.com
-127.0.0.1 v.qqcdn.com
-127.0.0.1 v.qq.com.edgesuite.net
-127.0.0.1 vqq.com
-127.0.0.1 vqqcdn.com
-127.0.0.1 vqqmail.qq.com
-127.0.0.1 vqqstyle.qq.com
+||v.qq.com^$important
+||vod.cn.tencent.com^$important
+||v.qqvideo.tc.qq.com^$important
+||livep.l.qq.com^$important
+||tvfe-bbs.qq.com^$important
+||tvfe.com^$important
+||tvfe.qq.com^$important
+||v.qqcdn.com^$important
+||v.qq.com.edgesuite.net^$important
+||vqq.com^$important
+||vqqcdn.com^$important
+||vqqmail.qq.com^$important
+||vqqstyle.qq.com^$important
 #==========腾讯视频web=============#
-127.0.0.1 v.qq.com
-127.0.0.1 imgcache.qq.com
-127.0.0.1 live.qq.com
-127.0.0.1 tvax1.sinaimg.cn
-127.0.0.1 tvax2.sinaimg.cn
-127.0.0.1 tvax3.sinaimg.cn
-127.0.0.1 tvax4.sinaimg.cn
-127.0.0.1 tvax5.sinaimg.cn
-127.0.0.1 tvax6.sinaimg.cn
-127.0.0.1 tvax7.sinaimg.cn
-127.0.0.1 tvax8.sinaimg.cn
-127.0.0.1 tvax9.sinaimg.cn
-127.0.0.1 tvax10.sinaimg.cn
+||imgcache.qq.com^$important
+||live.qq.com^$important
+||tvax1.sinaimg.cn^$important
+||tvax2.sinaimg.cn^$important
+||tvax3.sinaimg.cn^$important
+||tvax4.sinaimg.cn^$important
+||tvax5.sinaimg.cn^$important
+||tvax6.sinaimg.cn^$important
+||tvax7.sinaimg.cn^$important
+||tvax8.sinaimg.cn^$important
+||tvax9.sinaimg.cn^$important
+||tvax10.sinaimg.cn^$important
 #==========爱奇艺=============#
-127.0.0.1 ad.iqiyi.com
-127.0.0.1 ad-vod.iqiyi.com
-127.0.0.1 cm.passport.iqiyi.com
-127.0.0.1 cm.play.api.iqiyi.com
-127.0.0.1 cm.play.iqiyi.com
-127.0.0.1 cm.play.api.iqiyi.com
-127.0.0.1 cm.play.api.iqiyi.com
-127.0.0.1 msg.qy.net
-#==========爱奇艺HD=============#
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 ad.api.mobile.youku.com
-127.0.0.1 ad.api.youku.com
-127.0.0.1 ad.m.163.com
-127.0.0.1 ad.mediav.com
-127.0.0.1 ad.youku.com
-127.0.0.1 admaster.com.cn
-127.0.0.1 adsage.com
-127.0.0.1 adsame.com
-127.0.0.1 adsmogo.com
-127.0.0.1 adsrvmedia.adk2x.com
-127.0.0.1 adsymptotic.com
-127.0.0.1 adx.tribalfusion.com
-127.0.0.1 afp.csbew.com
-127.0.0.1 afp.sina.com.cn
-127.0.0.1 aop.56.com
-127.0.0.1 aopengzuoye.com
-127.0.0.1 app.mopub.com
-#==========奇异果TV=============#
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 ad.api.mobile.youku.com
-127.0.0.1 ad.api.youku.com
-127.0.0.1 ad.m.163.com
-127.0.0.1 ad.mediav.com
-127.0.0.1 ad.youku.com
-127.0.0.1 admaster.com.cn
-127.0.0.1 adsage.com
-127.0.0.1 adsame.com
-127.0.0.1 adsmogo.com
-127.0.0.1 adsrvmedia.adk2x.com
-127.0.0.1 adsymptotic.com
-127.0.0.1 adx.tribalfusion.com
-127.0.0.1 afp.csbew.com
-127.0.0.1 afp.sina.com.cn
-127.0.0.1 aop.56.com
-127.0.0.1 aopengzuoye.com
-127.0.0.1 app.mopub.com
-#==========芒果TV=============#
-127.0.0.1 ad.mgtv.com
-127.0.0.1 admaster.com.cn
-127.0.0.1 adsage.com
-127.0.0.1 adsame.com
-127.0.0.1 adsmogo.com
-127.0.0.1 adsrvmedia.adk2x.com
-127.0.0.1 adsymptotic.com
-127.0.0.1 adx.tribalfusion.com
-127.0.0.1 afp.csbew.com
-127.0.0.1 afp.sina.com.cn
-127.0.0.1 aop.56.com
-127.0.0.1 aopengzuoye.com
-127.0.0.1 app.mopub.com
-#==========芒果TV=============#
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 ad.api.mobile.youku.com
-127.0.0.1 ad.api.youku.com
-127.0.0.1 ad.m.163.com
-127.0.0.1 ad.mediav.com
-127.0.0.1 ad.youku.com
-127.0.0.1 admaster.com.cn
-127.0.0.1 adsage.com
-127.0.0.1 adsame.com
-127.0.0.1 adsmogo.com
-127.0.0.1 adsrvmedia.adk2x.com
-127.0.0.1 adsymptotic.com
-127.0.0.1 adx.tribalfusion.com
-127.0.0.1 afp.csbew.com
-127.0.0.1 afp.sina.com.cn
-127.0.0.1 aop.56.com
-127.0.0.1 aopengzuoye.com
-127.0.0.1 app.mopub.com
+||ad.iqiyi.com^$important
+||ad-vod.iqiyi.com^$important
+||cm.passport.iqiyi.com^$important
+||cm.play.iqiyi.com^$important
+||cm.play.api.iqiyi.com^$important
+||msg.qy.net^$important
+||#==========爱奇艺HD=============#
+||#==========奇异果TV=============#
+||ad.mgtv.com^$important
+||#==========芒果TV=============#
+||ad.api.youku.com^$important
+||ad.m.163.com^$important
+||ad.mediav.com^$important
+||ad.youku.com^$important
+||admaster.com.cn^$important
+||adsage.com^$important
+||adsame.com^$important
+||adsmogo.com^$important
+||adsrvmedia.adk2x.com^$important
+||adsymptotic.com^$important
+||adx.tribalfusion.com^$important
+||afp.csbew.com^$important
+||afp.sina.com.cn^$important
+||aop.56.com^$important
+||aopengzuoye.com^$important
+||app.mopub.com^$important
 #==========百度web=============#
-127.0.0.1 cpro.baidu.com
-127.0.0.1 hm.baidu.com
-127.0.0.1 pos.baidu.com
-127.0.0.1 union.baidu.com
-127.0.0.1 ecmb.bdimg.com
-127.0.0.1 cpro.baidustatic.com
-127.0.0.1 cpro.baidustatic.cn
-127.0.0.1 cpro.baidustatic.net
-127.0.0.1 cpro.baidustatic.org
-127.0.0.1 cpro.baidustatic.co
-127.0.0.1 cpro.baidustatic.mobi
-127.0.0.1 cpro.baidustatic.asia
-127.0.0.1 cpro.baidustatic.eu
-127.0.0.1 cpro.baidustatic.us
-127.0.0.1 cpro.baidustatic.info
-127.0.0.1 cpro.baidustatic.biz
-127.0.0.1 cpro.baidustatic.cc
-127.0.0.1 cpro.baidustatic.tv
-127.0.0.1 cpro.baidustatic.co.uk
-127.0.0.1 cpro.baidustatic.de
-127.0.0.1 cpro.baidustatic.fr
-127.0.0.1 cpro.baidustatic.it
-127.0.0.1 cpro.baidustatic.es
-127.0.0.1 cpro.baidustatic.nl
-127.0.0.1 cpro.baidustatic.ru
-127.0.0.1 cpro.baidustatic.jp
-127.0.0.1 cpro.baidustatic.kr
-127.0.0.1 cpro.baidustatic.com.au
-127.0.0.1 cpro.baidustatic.ca
-127.0.0.1 cpro.baidustatic.com.br
-127.0.0.1 cpro.baidustatic.com.mx
-127.0.0.1 cpro.baidustatic.in
-127.0.0.1 cpro.baidustatic.com.ar
-127.0.0.1 cpro.baidustatic.co.za
-127.0.0.1 cpro.baidustatic.com.ng
-127.0.0.1 cpro.baidustatic.com.tr
-127.0.0.1 cpro.baidustatic.com.sa
-127.0.0.1 cpro.baidustatic.ae
-127.0.0.1 cpro.baidustatic.com.sg
-127.0.0.1 cpro.baidustatic.com.my
-127.0.0.1 cpro.baidustatic.com.id
-127.0.0.1 cpro.baidustatic.com.ph
-127.0.0.1 cpro.baidustatic.com.vn
-127.0.0.1 cpro.baidustatic.com.th
-127.0.0.1 cpro.baidustatic.com.tw
-127.0.0.1 cpro.baidustatic.com.hk
-127.0.0.1 cpro.baidustatic.com.mo
-127.0.0.1 cpro.baidustatic.com.pk
-127.0.0.1 cpro.baidustatic.com.bd
-127.0.0.1 cpro.baidustatic.com.eg
-127.0.0.1 cpro.baidustatic.com.ng
-127.0.0.1 cpro.baidustatic.com.za
-127.0.0.1 cpro.baidustatic.com.tr
-127.0.0.1 cpro.baidustatic.com.sa
-127.0.0.1 cpro.baidustatic.ae
-127.0.0.1 cpro.baidustatic.com.sg
-127.0.0.1 cpro.baidustatic.com.my
-127.0.0.1 cpro.baidustatic.com.id
-127.0.0.1 cpro.baidustatic.com.ph
-127.0.0.1 cpro.baidustatic.com.vn
-127.0.0.1 cpro.baidustatic.com.th
-127.0.0.1 cpro.baidustatic.com.tw
-127.0.0.1 cpro.baidustatic.com.hk
-127.0.0.1 cpro.baidustatic.com.mo
-127.0.0.1 cpro.baidustatic.com.pk
-127.0.0.1 cpro.baidustatic.com.bd
-127.0.0.1 cpro.baidustatic.com.eg
+||cpro.baidu.com^$important
+||hm.baidu.com^$important
+||pos.baidu.com^$important
+||union.baidu.com^$important
+||ecmb.bdimg.com^$important
+||cpro.baidustatic.com^$important
+||cpro.baidustatic.cn^$important
+||cpro.baidustatic.net^$important
+||cpro.baidustatic.org^$important
+||cpro.baidustatic.co^$important
+||cpro.baidustatic.mobi^$important
+||cpro.baidustatic.asia^$important
+||cpro.baidustatic.eu^$important
+||cpro.baidustatic.us^$important
+||cpro.baidustatic.info^$important
+||cpro.baidustatic.biz^$important
+||cpro.baidustatic.cc^$important
+||cpro.baidustatic.tv^$important
+||cpro.baidustatic.co.uk^$important
+||cpro.baidustatic.de^$important
+||cpro.baidustatic.fr^$important
+||cpro.baidustatic.it^$important
+||cpro.baidustatic.es^$important
+||cpro.baidustatic.nl^$important
+||cpro.baidustatic.ru^$important
+||cpro.baidustatic.jp^$important
+||cpro.baidustatic.kr^$important
+||cpro.baidustatic.com.au^$important
+||cpro.baidustatic.ca^$important
+||cpro.baidustatic.com.br^$important
+||cpro.baidustatic.com.mx^$important
+||cpro.baidustatic.in^$important
+||cpro.baidustatic.com.ar^$important
+||cpro.baidustatic.co.za^$important
+||cpro.baidustatic.com.ng^$important
+||cpro.baidustatic.com.tr^$important
+||cpro.baidustatic.com.sa^$important
+||cpro.baidustatic.ae^$important
+||cpro.baidustatic.com.sg^$important
+||cpro.baidustatic.com.my^$important
+||cpro.baidustatic.com.id^$important
+||cpro.baidustatic.com.ph^$important
+||cpro.baidustatic.com.vn^$important
+||cpro.baidustatic.com.th^$important
+||cpro.baidustatic.com.tw^$important
+||cpro.baidustatic.com.hk^$important
+||cpro.baidustatic.com.mo^$important
+||cpro.baidustatic.com.pk^$important
+||cpro.baidustatic.com.bd^$important
+||cpro.baidustatic.com.eg^$important
+||cpro.baidustatic.com.za^$important
 #==========微博web=============#
-127.0.0.1 ad.api.weibo.com
-127.0.0.1 mapi.weibo.com
-127.0.0.1 api.weibo.cn
-127.0.0.1 p.t.sina.com.cn
-127.0.0.1 ad.sina.com.cn
-127.0.0.1 adimg.weibo.com
-127.0.0.1 adse.sina.com.cn
-127.0.0.1 sina.com.cn
-127.0.0.1 weibo.cn
-127.0.0.1 weibo.com
-#==========抖音=============#
-127.0.0.1 api.amemv.com
-127.0.0.1 log.snssdk.com
-127.0.0.1 e3.vp.toutiao.com
-127.0.0.1 api3-normal-c-hl.amemv.com
-127.0.0.1 api3-normal-c-lf.amemv.com
-127.0.0.1 api3-normal-c-lq.amemv.com
-127.0.0.1 api3-normal-c-ma.amemv.com
-127.0.0.1 api3-normal-c-mb.amemv.com
-127.0.0.1 api3-normal-c-mc.amemv.com
-127.0.0.1 api3-normal-c-md.amemv.com
-
-
+||ad.api.weibo.com^$important
+||mapi.weibo.com^$important
+||api.weibo.cn^$important
+||p.t.sina.com.cn^$important
+||ad.sina.com.cn^$important
+||adimg.weibo.com^$important
+||adse.sina.com.cn^$important
+||sina.com.cn^$important
+||weibo.cn^$important
+||weibo.com^$important
