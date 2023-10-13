@@ -1414,11 +1414,6 @@
 ||tvapi.kuyun.com^$important
 ||assistant.pandora.xiaomi.com^$important
 ||api.cupid.ptqy.gitv.tv^$important
-||t1.a.market.xiaomi.com^$important
-||t2.a.market.xiaomi.com^$important
-||t3.a.market.xiaomi.com^$important
-||t4.a.market.xiaomi.com^$important
-||t5.a.market.xiaomi.com^$important
 ||79t2.admaster.com.cn^$important
 ||secure.chn.imrworldwide.com^$important
 ||alert.kuyun.com^$important
