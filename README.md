@@ -43,3 +43,15 @@ https://raw.iqiq.io/banbendalao/ADgk/master/kill-baidu-ad.txt
 
 Number of Domain
 https://neodev.team/adblocker
+
+AdGuardSDNSFilter（无罪释放）
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
+
+AdGuardSDNSFilter（二次逮捕）
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+
+AdGuardSDNSFilter（无期徒刑）
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+
+
+
