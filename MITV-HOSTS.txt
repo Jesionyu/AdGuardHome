@@ -8,7 +8,7 @@
 #
 # Last update: 2023-10-12
 #
-# Number of blocked domains:  1542
+# Number of blocked domains:  1549
 #=====================================
 #============语音控制============#
 @@||tracker.ai.xiaomi.com
