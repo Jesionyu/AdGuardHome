@@ -4,8 +4,7 @@
 # Project home page: https://github.com/Jesionyu/AdGuardHome/
 # Last update: 2023-10-12
 # 测试库精简中（有很多是懒得抓了chatGPT4咨询的）
-# Number of blocked domains:  272
-#=====================================
+# Number of blocked domains:  143
 #============语音控制============#
 @@||tracker.ai.xiaomi.com
 @@||cc.sys.tv.mi.com
@@ -27,7 +26,17 @@
 @@||www.so.com
 @@||www.tudou.com
 #============电视功能============#
-
+@@||mishop.pandora.xiaomi.com
+@@||upgrade.xiabop.pandora.xiaomi.com
+@@||upgrade.mishop.pandora.xiaomi.com
+@@||market.xiaomi.com
+@@||milink.pandora.xiaomi.com
+@@||tvmanager.pandora.xiaomi.com
+@@||tvmgr.pandora.xiaomi.com
+@@||upgrade.xl9.xunlei.com
+@@||video.market.xiaomi.com
+@@||appstore.cdn.pandora.xiaomi.com
+@@||appstore.pandora.xiaomi.com
 #============广告地址============#
 ||de.pandora.xiaomi.com^$important
 ||data.mistat.xiaomi.com^$important
