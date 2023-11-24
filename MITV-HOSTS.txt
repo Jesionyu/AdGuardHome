@@ -33,6 +33,7 @@
 #18.头条
 #19.作业帮
 #20.微博
+#21.喜马拉雅
 #==========aiseet广告(100%确定)==========#
 ||aiseet.atianqi.com^$important
 ||creport-start.play.aiseet.atianqi.com^$important
@@ -397,3 +398,7 @@
 ||p.t.sina.com.cn^$important
 ||adimg.weibo.com^$important
 ||adse.sina.com.cn^$important
+##==========喜马拉雅==========##
+||adbehavior.ximalaya.com^$important
+||adse.wsa.ximalaya.com^$important
+||adse.ximalaya.com^$important
