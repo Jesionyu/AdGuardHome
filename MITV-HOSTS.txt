@@ -389,3 +389,10 @@
 ||rtlog5-applog-hl.fqnovel.com^$important
 ||larksuite.com^$important
 ||larksuitecdn.com^$important
+##==========微博==========##
+||ad.api.weibo.com^$important
+||mapi.weibo.com^$important
+||api.weibo.cn^$important
+||p.t.sina.com.cn^$important
+||adimg.weibo.com^$important
+||adse.sina.com.cn^$important
