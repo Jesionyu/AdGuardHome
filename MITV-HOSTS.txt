@@ -354,6 +354,9 @@
 ||advertising.adobe.com^$important
 ||tubemogul.com^$important
 ##==========头条==========##
+||api-access.pangolin-sdk-toutiao1.com^$important
+||api-access.pangolin-sdk-toutiao1.com.queniuiq.com^$important
+||api-access.pangolin-sdk-toutiao-b.com^$important
 ||extlog.snssdk.com^$important
 ||i.snssdk.com^$important
 ||is.snssdk.com^$important
