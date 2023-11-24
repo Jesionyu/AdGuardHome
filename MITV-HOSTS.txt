@@ -8,7 +8,7 @@
 #
 # Last update: 2023-11-20
 #
-# Number of blocked domains:  1179
+# Number of blocked domains:  814
 #=====================================
 目录
 #1.aiseet广告(100%确定）
@@ -55,12 +55,6 @@
 ||soup.play.aiseet.atianqi.com^$important
 ||bkvv.play.aiseet.atianqi.com^$important
 ||otheve-beacon6.play.aiseet.atianqi.com^$important
-||andrqd.play.aiseet.atianqi.com^$important
-||otheve.play.aiseet.atianqi.com^$important
-||othstr.play.aiseet.atianqi.com^$important
-||news-l.play.aiseet.atianqi.com^$important
-||p-l.play.aiseet.atianqi.com^$important
-||t-l.play.aiseet.atianqi.com^$important
 ||dp3.play.aiseet.atianqi.com^$important
 ||monitor-uu.play.aiseet.atianqi.com^$important
 ||sdkconfig.play.aiseet.atianqi.com^$important
@@ -72,7 +66,7 @@
 ||livep.l.aiseet.atianqi.com^$important
 ||lives.l.aiseet.atianqi.com^$important
 ||play.aiseet.atianqi.com^$important
-||tv.aiseet.atianqi.com^$important
+
 #==========aisee广告(100%确定)==========#
 ||ottpauth.yst.aisee.tv^$important
 ||api.snm0516.aisee.tv^$important
@@ -154,7 +148,6 @@
 ||msg.ptqy.gitv.tv^$important
 ||msga.ptqy.gitv.tv^$important
 ||store.ptqy.gitv.tv^$important
-||t7z.cupid.ptqy.gitv.tv^$important
 #==========酷6(验证中)==========#
 ||addata.ku6.com^$important
 ||pvdata.ku6.com^$important
@@ -296,7 +289,7 @@
 ||andrqd.play.aiseet.atianqi.com^$important
 ||otheve.play.aiseet.atianqi.com^$important
 ||othstr.play.aiseet.atianqi.com^$important
-||omgmta.play.aiseet.atianqi.com^$important
+
 ||news-l.play.aiseet.atianqi.com^$important
 ||p-l.play.aiseet.atianqi.com^$important
 ||t-l.play.aiseet.atianqi.com^$important
