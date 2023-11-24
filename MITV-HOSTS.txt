@@ -32,6 +32,7 @@
 #17.Adobe
 #18.头条
 #19.作业帮
+#20.微博
 #==========aiseet广告(100%确定)==========#
 ||aiseet.atianqi.com^$important
 ||creport-start.play.aiseet.atianqi.com^$important
